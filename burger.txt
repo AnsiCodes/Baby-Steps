@@ -4,3 +4,7 @@ ketchup
 mayonaise
 mustard 
 pickles
+lettuce
+tomatoes
+bacon halal
+halal beer
