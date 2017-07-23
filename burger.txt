@@ -1,0 +1,6 @@
+meat
+buns
+ketchup
+mayonaise
+mustard 
+pickles
